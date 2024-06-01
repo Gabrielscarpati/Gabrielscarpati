@@ -1,9 +1,9 @@
-## Hi my name is Gabriel Scarpati, I'm a Brazilian developer!
+## Hi my name is Gabriel Scarpati!
 - 👋 Hi, I’m @Gabrielscarpati
 - 👀 I’m interested in flutter and making the world a better place with my code 
 - 🌱 I’m currently learning more about mobile development
 - 💞️ I’m looking to collaborate on startups and established companies
-- 📫 How to reach me: gbscarpati@usf.edu
+- 📫 How to reach me: gbscarpati@usf.edu or gabrielbrsc16@gmail.com
 
 
 <div align="center">
